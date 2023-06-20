@@ -1,0 +1,49 @@
+.logo{
+    width: 120px;
+    height: 50px;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    padding:20px 20px;
+    box-shadow: 0px 2px 7px rgba(0,0,0,0.2);
+}
+h3{
+    text-decoration: none;
+}
+.nav-1{
+    border-radius: 25px;
+    display: flex;
+    box-shadow: 1px 1px 5px 5px rgba(0,0,0,0.1);
+    justify-content: space-between;
+}
+.nav-1-items{
+    padding-left: 10px ;
+    padding-right: 10px;
+}
+.search{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-2-items{
+    font-weight: bold;
+    font-size: large;
+}
+.button{
+
+    width: 30px;
+    height: 30px;
+}
+.nav-2{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-2-items{
+    font: bold;
+}
+.world{
+    width: 30px;
+    padding-top: 15px;
+    padding-left: 15px;
+    height: 30px;
+}
